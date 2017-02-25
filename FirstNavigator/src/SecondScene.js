@@ -7,6 +7,7 @@ export default class SecondScene extends Component {
       <View style={styles.container}>
         <Text>I'm the SecondScene component</Text>
         <Text>{this.props.data}</Text>
+        <View style={{flexDirection: 'row'}}>
           <Button
             onPress={() => this.props.navigator.pop()}
             title='back to first scene'
@@ -19,6 +20,7 @@ export default class SecondScene extends Component {
             title='Third Scene'
             color='purple'
           />
+        </View>
       </View>
     );
   }
