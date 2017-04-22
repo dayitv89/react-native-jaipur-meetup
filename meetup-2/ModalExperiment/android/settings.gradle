@@ -1,0 +1,3 @@
+rootProject.name = 'ModalExperiment'
+
+include ':app'
