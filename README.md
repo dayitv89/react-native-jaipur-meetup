@@ -1,5 +1,5 @@
-# react-native-jaipur-meetup-1
-React Native Jaipur Meetup-1. Slack: https://react-native-jaipur.slack.com/
+# react-native-jaipur-meetup
+React Native Jaipur Meetup. Slack: https://react-native-jaipur.slack.com/
 
 ### Meetup
 
